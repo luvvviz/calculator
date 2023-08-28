@@ -51,3 +51,11 @@ button {
 #clear {
     flex: 2;
 }
+
+button:hover {
+    background-color: #1f9aac;
+}
+
+button:active {
+    background-color: #00444e;
+}
